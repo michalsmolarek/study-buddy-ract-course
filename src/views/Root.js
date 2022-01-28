@@ -12,6 +12,7 @@ const Root = () => (
       <UsersList />
     </Wrapper>
   </ThemeProvider>
+
 );
 
 export default Root;
