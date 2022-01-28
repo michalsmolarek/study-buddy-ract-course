@@ -1,5 +1,6 @@
 export const users = [
   {
+
     name: 'Jan Nowak',
     average: '39%',
     attendence: '2.3',
@@ -28,5 +29,6 @@ export const users = [
     name: 'John Doe',
     average: '39%',
     attendence: '2.3',
+
   },
 ];
